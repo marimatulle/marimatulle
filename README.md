@@ -1,7 +1,7 @@
-### Hello there 👋 I'm Marina!!
+### Oiii 👋 Eu sou a Marina!!
 
-- 🌱 Learning JavaScript, TypeScript and React
-- 😄 Pronouns: she/her
+- 🌱 Aprendendo JavaScript, TypeScript e React
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/marimatulle">
