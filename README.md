@@ -1,6 +1,4 @@
-### Oiii 👋 Eu sou a Marina!!
-
-- 😄 Pronomes: ela/dela
+### Hello there 👋 !!
 
 <div align="center">
   <a href="https://github.com/marimatulle">
