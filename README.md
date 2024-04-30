@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">My name is Marina, I'm 23 years old and I live in Brazil. I'm passionate about technology from an early age, particularly fond of frontend stacks. I'm fluent in two languages: Portuguese and English.</p>
+<p align="left">My name is Marina, I'm 23 years old and I live in Brazil. I'm passionate about technology from an early age, particularly fond of frontend stacks.</p>
 
 ###
 
