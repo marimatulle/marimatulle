@@ -1,8 +1,8 @@
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marimatulle.marimatulle" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=marimatulle&color=bf91f3"><br>
 </div>
 
-###
+<h2 align="center">hello there! 👋</h2>
 
 <div align="center">
   <img height="450" src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif"/>
@@ -17,12 +17,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
-
-###
-
-<h2 align="center">hello there! 👋</h2>
-
-###
 
 <h3 align="left">-👩🏻‍💻 About me:</h3>
 
@@ -46,18 +40,6 @@
 
 <h3 align="left">-💻 Skills:</h3>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marimatulle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marimatulle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=marimatulle&theme=gotham&mode=weekly"
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -77,3 +59,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
 </div>
+
+###
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marimatulle&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marimatulle&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marimatulle&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marimatulle&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marimatulle&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
