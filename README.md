@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h3 align="left">-👩🏻‍💻 About me:</h3>
+<h3 align="left">👩🏻‍💻 About me:</h3>
 
 <p align="left">My name is Marina, I'm 23 years old and I live in Brazil. I'm passionate about technology from an early age, particularly fond of frontend stacks.</p>
 <p align="left">I'm currently studying Systems Analysis and Development and working on my final paper. The project I'm developing is one I really enjoy working on, and it's called Petslife.</p>
@@ -24,7 +24,7 @@
 <p align="left">I'm a big fan of video games, anime, cinema, hip-hop, and I really love cats. 🎮🎬🎶🐱</p>
 <p align="left">Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about our shared interests.</p>
 
-<h3 align="left">-💻 Skills & Stats:</h3>
+<h3 align="left">💻 Skills & Stats:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
