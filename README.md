@@ -8,9 +8,7 @@
   <img height="450" src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif"/>
 </div>
 
-###
-
-###
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marina-matulle-24b445248/" target="_blank">
@@ -20,15 +18,11 @@
 
 <h3 align="left">-👩🏻‍💻 About me:</h3>
 
-###
-
 <p align="left">My name is Marina, I'm 23 years old and I live in Brazil. I'm passionate about technology from an early age, particularly fond of frontend stacks.</p>
 <p align="left">I'm currently studying Systems Analysis and Development and working on my final paper. The project I'm developing is one I really enjoy working on, and it's called Petslife.</p>
 <p align="left">In addition to technology, I also love audiovisual arts. My passion for the audiovisual world led me to learn how to use after effects, enhancing my creativity.</p>
 <p align="left">I'm a big fan of video games, anime, cinema, hip-hop, and I really love cats. 🎮🎬🎶🐱</p>
 <p align="left">Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about our shared interests.</p>
-
-###
 
 <h3 align="left">-💻 Skills & Stats:</h3>
 
@@ -52,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="adobe after effects logo"  />
 </div>
 
-###
+<br>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marimatulle&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marimatulle&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marimatulle&theme=tokyonight) |
 | :-: | :-: | :-: |
@@ -68,6 +62,11 @@
   </picture>
 </div>
 
-### 🎧 Listening now on Spotify:
+<br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marinamatulle.mm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+🎧 Listening now on Spotify:
+
+<img height="200" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=marinamatulle.mm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true">
+
+<img height="200" align="right" src="https://i.giphy.com/YxKSMiHkibVZQE3dLB.webp">
+
