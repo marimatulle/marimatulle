@@ -66,7 +66,7 @@
 
 🎧 Listening now on Spotify:
 
-<img height="200" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=marinamatulle.mm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true">
+<img height="120" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=marinamatulle.mm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true">
 
-<img height="200" align="right" src="https://i.giphy.com/YxKSMiHkibVZQE3dLB.webp">
+<img height="120" align="right" src="https://i.giphy.com/YxKSMiHkibVZQE3dLB.webp">
 
