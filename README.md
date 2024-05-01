@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">-💻 Skills:</h3>
+<h3 align="left">-💻 Skills & Stats:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
@@ -59,3 +59,7 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marimatulle&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marimatulle&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
+
+### 🎧 Listening now on Spotify:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marinamatulle.mm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
