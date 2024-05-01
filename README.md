@@ -23,17 +23,9 @@
 ###
 
 <p align="left">My name is Marina, I'm 23 years old and I live in Brazil. I'm passionate about technology from an early age, particularly fond of frontend stacks.</p>
-
-###
-
 <p align="left">I'm currently studying Systems Analysis and Development and working on my final paper. The project I'm developing is one I really enjoy working on, and it's called Petslife.</p>
-
-###
-
-<p align="left">In addition to technology, I also love audiovisual arts. I'm a big fan of video games, anime, cinema, hip-hop, and I really love cats. 🎮🎬🎶🐱</p>
-
-###
-
+<p align="left">In addition to technology, I also love audiovisual arts. My passion for the audiovisual world led me to learn how to use after effects, enhancing my creativity.</p>
+<p align="left">I'm a big fan of video games, anime, cinema, hip-hop, and I really love cats. 🎮🎬🎶🐱</p>
 <p align="left">Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about our shared interests.</p>
 
 ###
