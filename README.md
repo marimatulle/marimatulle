@@ -64,7 +64,7 @@
 
 <br>
 
-<h3 align="left">-🎧 Listening now on Spotify:</h3>
+<h3 align="left">🎧 Listening now on Spotify:</h3>
 
 <img height="150" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=marinamatulle.mm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true">
 
