@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=marimatulle&color=bf91f3"><br>
 </div>
 
-<h2 align="center">hello there! 👋</h2>
+<h2 align="center">Hello there! 👋</h2>
 
 <div align="center">
   <img height="450" src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif"/>
@@ -18,8 +18,8 @@
 
 <h3 align="left">👩🏻‍💻 About me:</h3>
 
-<p align="left">My name is Marina, I'm 23 years old and I live in Brazil. I'm passionate about technology from an early age, particularly fond of frontend stacks.</p>
-<p align="left">I'm currently studying Systems Analysis and Development and working on my final paper. The project I'm developing is one I really enjoy working on, and it's called Petslife.</p>
+<p align="left">My name is Marina, I'm 24 years old and I live in Brazil. I'm passionate about technology from an early age, particularly fond of frontend stacks.</p>
+<p align="left">I have a degree in systems analysis and development and I am studying software engineering.</p>
 <p align="left">In addition to technology, I also love audiovisual arts. My passion for the audiovisual world led me to learn how to use after effects, enhancing my creativity.</p>
 <p align="left">I'm a big fan of video games, anime, cinema, hip-hop, and I really love cats. 🎮🎬🎶🐱</p>
 <p align="left">Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about our shared interests.</p>
