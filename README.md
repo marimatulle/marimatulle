@@ -18,7 +18,7 @@
 
 <h3 align="left">👩🏻‍💻 About me:</h3>
 
-<p align="left">My name is Marina, I'm 24 years old and I live in Brazil. I'm passionate about technology from an early age, particularly fond of frontend stacks.</p>
+<p align="left">My name is Marina, I'm 25 years old and I live in Brazil. I'm passionate about technology from an early age.</p>
 <p align="left">I have a degree in systems analysis and development and I am studying software engineering.</p>
 <p align="left">In addition to technology, I also love audiovisual arts. My passion for the audiovisual world led me to learn how to use after effects, enhancing my creativity.</p>
 <p align="left">I'm a big fan of video games, anime, cinema, hip-hop, and I really love cats. 🎮🎬🎶🐱</p>
